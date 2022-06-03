@@ -1,0 +1,1 @@
+cmd_/home/virtuoso/Applications/OS/A3/procReport/procReport.mod := { echo  /home/virtuoso/Applications/OS/A3/procReport/procReport.o;  echo; } > /home/virtuoso/Applications/OS/A3/procReport/procReport.mod

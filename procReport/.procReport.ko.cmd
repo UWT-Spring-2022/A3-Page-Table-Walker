@@ -1,0 +1,1 @@
+cmd_/home/virtuoso/Applications/OS/A3/procReport/procReport.ko := ld -r -m elf_x86_64 --build-id=sha1  -T arch/x86/module.lds -o /home/virtuoso/Applications/OS/A3/procReport/procReport.ko /home/virtuoso/Applications/OS/A3/procReport/procReport.o /home/virtuoso/Applications/OS/A3/procReport/procReport.mod.o;  true
